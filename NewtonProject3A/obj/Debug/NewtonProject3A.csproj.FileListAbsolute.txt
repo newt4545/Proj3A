@@ -1,0 +1,10 @@
+C:\Users\Adam\Desktop\NewtonProject3A\NewtonProject3A\obj\Debug\NewtonProject3A.csprojAssemblyReference.cache
+C:\Users\Adam\Desktop\NewtonProject3A\NewtonProject3A\obj\Debug\ProjectPlutoCalculator.frmRetirementAnnuity.resources
+C:\Users\Adam\Desktop\NewtonProject3A\NewtonProject3A\obj\Debug\NewtonProject3A.Properties.Resources.resources
+C:\Users\Adam\Desktop\NewtonProject3A\NewtonProject3A\obj\Debug\NewtonProject3A.csproj.GenerateResource.cache
+C:\Users\Adam\Desktop\NewtonProject3A\NewtonProject3A\obj\Debug\NewtonProject3A.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Desktop\NewtonProject3A\NewtonProject3A\bin\Debug\NewtonProject3A.exe.config
+C:\Users\Adam\Desktop\NewtonProject3A\NewtonProject3A\bin\Debug\NewtonProject3A.exe
+C:\Users\Adam\Desktop\NewtonProject3A\NewtonProject3A\bin\Debug\NewtonProject3A.pdb
+C:\Users\Adam\Desktop\NewtonProject3A\NewtonProject3A\obj\Debug\NewtonProject3A.exe
+C:\Users\Adam\Desktop\NewtonProject3A\NewtonProject3A\obj\Debug\NewtonProject3A.pdb
